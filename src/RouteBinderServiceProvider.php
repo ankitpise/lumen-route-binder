@@ -1,6 +1,6 @@
 <?php
 
-namespace Ankitpise\RouteBinder;
+namespace Syntags\RouteBinder;
 
 use Illuminate\Support\ServiceProvider;
 
