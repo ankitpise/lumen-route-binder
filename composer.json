@@ -10,6 +10,7 @@
             "email": "ankit@syntags.co"
         }
     ],
+    "version": "0.2.1",
     "require": {},
     "autoload": {
         "psr-4": {
