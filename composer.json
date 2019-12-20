@@ -1,0 +1,19 @@
+{
+    "name": "syntags/lumen-route-binder",
+    "description": "This package enables you to use laravel like Route Model Binding in Lumen",
+    "keywords": ["lumen", "route", "binding", "model"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ankit Pise",
+            "email": "ankit@syntags.co"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Syntags\\RouteBinder\\": "src/"
+        }
+    }
+}
